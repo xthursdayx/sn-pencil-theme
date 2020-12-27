@@ -3,22 +3,21 @@ metatype: json
 ---
 
   {
-    "identifier": "io.github.christianhans.sn-gruvbox-dark-theme",
-    "name": "Gruvbox Dark Theme",
+    "identifier": "io.github.alecstein.sn-pencil-theme",
+    "name": "Pencil",
     "content_type": "SN|Theme",
     "area": "themes",
-    "description": "Gruvbox Dark Theme for Standard Notes",
-    "version": "v0.0.16",
-    "url": "https://cdn.jsdelivr.net/gh/christianhans/sn-gruvbox-dark-theme@master/dist/dist.css",
+    "description": "A dark, writing-oriented theme",
+    "version": "v0.1",
+    "url": "https://raw.githubusercontent.com/alecstein/sn-pencil-theme/master/dist/dist.css",
     "download_url": "https://github.com/alecstein/sn-pencil-theme/archive/0.32.zip",
-    "marketing_url": "https://github.com/christianhans/sn-gruvbox-dark-theme",
+    "marketing_url": "https://github.com/alecstein/sn-pencil-theme",
     "latest_url": "https://listed.to/p/RO5fx7AfUH",
-    "thumbnail_url": "https://raw.githubusercontent.com/christianhans/sn-gruvbox-dark-theme/master/preview.png",
     "dock_icon": {
       "type": "circle",
-      "background_color": "#D79921",
-      "foreground_color": "#076678",
-      "border_color": "#D79921"
+      "background_color": "#AE422F",
+      "foreground_color": "#000000",
+      "border_color": "#AE422F"
     },
     "statusBar": "dark-content"
   }
