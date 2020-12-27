@@ -20,7 +20,7 @@
   --sn-component-outer-border-color: transparent;
   --sn-component-inner-border-color: var(--dark-border-color);
   --sn-stylekit-info-color: var(--highlight-color);
-  --sn-stylekit-info-contrast-color: var(--foreground-color);
+  --sn-stylekit-info-contrast-color: var(--background-2);
   --sn-stylekit-neutral-color: #7c7c7c;
   --sn-stylekit-neutral-contrast-color: white;
   --sn-stylekit-success-color: #2B9612;
