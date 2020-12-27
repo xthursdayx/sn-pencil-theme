@@ -1,7 +1,7 @@
 :root {
   --primary-bg-color: #292937;
   --secondary-bg-color: #313142;
-  --editor-bg-color: #202020;
+  --editor-bg-color: #000000;
   --border-color: #13131a;
   --ui-text-color: #d8d8d8;
   --sn-stylekit-info-color: #AE422F;
@@ -36,6 +36,7 @@
   --sn-stylekit-paragraph-text-color: var(--ui-text-color);
   --sn-stylekit-scrollbar-track-border-color: var(--border-color);
   --sn-stylekit-scrollbar-thumb-color: var(--sn-stylekit-info-color);
+  --sn-stylekit-monospace-font: 'Monaco;
 }
 
 /*# sourceMappingURL=dist.css.map */
