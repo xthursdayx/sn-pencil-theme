@@ -3,7 +3,7 @@
   --background-2: #333333;
   --foreground-color: #cccccc;
   --highlight-color: #e10000;
-  --border-color: #e10000;
+  --border-color: #333333;
   --dark-border-color: #000000;
   --pre-color: #d6dbdb;
   --content-1: #586D75;
@@ -16,9 +16,9 @@
   --menu-item-sep-color: rgba(0, 0, 0, 0.1);
   --sn-component-foreground-color: var(--content-1);
   --sn-component-background-color: var(--border-color);
-  --sn-component-foreground-highlight-color: var(--highlight-color);
+  --sn-component-foreground-highlight-color: var(--background-2);
   --sn-component-outer-border-color: transparent;
-  --sn-component-inner-border-color: var(--highlight-color);
+  --sn-component-inner-border-color: var(--dark-border-color);
   --sn-stylekit-info-color: var(--highlight-color);
   --sn-stylekit-info-contrast-color: var(--foreground-color);
   --sn-stylekit-neutral-color: #7c7c7c;
