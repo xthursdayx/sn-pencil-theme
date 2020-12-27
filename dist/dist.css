@@ -41,8 +41,26 @@
 
 #editor-column {
     width: 90%;
-  max-width: 45em;
-  margin: 0 auto;
+    max-width: 50em;
+    margin: 0 auto;
 }
 
+.app, .app .section {
+  height: 100%;
+  max-height: 100%;
+}
+
+.main-ui-view > .ng-isolate-scope {
+  opacity: 0;
+  margin-top: -32px;
+}
+
+.main-ui-view > .ng-isolate-scope:hover {
+  opacity: 1;
+}
+
+#editor-title-bar,
+#editor-menu-bar {
+  display: none;
+}
 /*# sourceMappingURL=dist.css.map */
