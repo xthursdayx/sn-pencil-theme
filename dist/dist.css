@@ -4,6 +4,7 @@
   --foreground-color: #cccccc;
   --highlight-color: #e10000;
   --border-color: #e10000;
+  --dark-border-color: #000000;
   --pre-color: #d6dbdb;
   --content-1: #586D75;
   --content-2: #667A83;
@@ -35,7 +36,7 @@
   --sn-stylekit-paragraph-text-color: var(--foreground-color);
   --sn-stylekit-contrast-background-color: var(--foreground-color);
   --sn-stylekit-contrast-foreground-color: var(--background-2);
-  --sn-stylekit-contrast-border-color: var(--border-color);
+  --sn-stylekit-contrast-border-color: var(--dark-border-color);
   --sn-stylekit-secondary-background-color: var(--background-1);
   --sn-stylekit-secondary-foreground-color: var(--foreground-color);
   --sn-stylekit-secondary-border-color: var(--border-color);
