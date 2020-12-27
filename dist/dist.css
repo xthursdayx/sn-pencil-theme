@@ -1,9 +1,9 @@
 :root {
   --background-1: #000000;
   --background-2: #333333;
-  --foreground-color: #a1a1a1;
+  --foreground-color: #cccccc;
   --highlight-color: #e10000;
-  --border-color: #1a1a1a;
+  --border-color: #e10000;
   --pre-color: #d6dbdb;
   --content-1: #586D75;
   --content-2: #667A83;
@@ -33,8 +33,8 @@
   --sn-stylekit-foreground-color: var(--foreground-color);
   --sn-stylekit-border-color: var(--border-color);
   --sn-stylekit-paragraph-text-color: var(--foreground-color);
-  --sn-stylekit-contrast-background-color: var(--background-2);
-  --sn-stylekit-contrast-foreground-color: var(--foreground-color);
+  --sn-stylekit-contrast-background-color: var(--foreground-color);
+  --sn-stylekit-contrast-foreground-color: var(--background-2);
   --sn-stylekit-contrast-border-color: var(--border-color);
   --sn-stylekit-secondary-background-color: var(--background-1);
   --sn-stylekit-secondary-foreground-color: var(--foreground-color);
@@ -42,8 +42,8 @@
   --sn-stylekit-secondary-contrast-background-color: var(--background-2);
   --sn-stylekit-secondary-contrast-foreground-color: var(--foreground-color);
   --sn-stylekit-secondary-contrast-border-color: var(--border-color);
-  --sn-stylekit-editor-background-color: var(--sn-stylekit-background-color);
-  --sn-stylekit-editor-foreground-color: var(--sn-stylekit-foreground-color);
+  --sn-stylekit-editor-background-color: var(--background-1);
+  --sn-stylekit-editor-foreground-color: var(--foreground-color);
   --sn-stylekit-scrollbar-track-border-color: var(--border-color);
   --sn-stylekit-scrollbar-thumb-color: var(--sn-stylekit-info-color);
   --sn-desktop-titlebar-bg-color: var(--background-1);
