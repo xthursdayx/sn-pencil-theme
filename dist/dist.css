@@ -40,7 +40,8 @@
 }
 
 #editor-column {
-  max-width: 30em;
+    width: 90%;
+  max-width: 45em;
   margin: 0 auto;
 }
 
