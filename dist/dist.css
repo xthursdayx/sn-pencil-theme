@@ -19,7 +19,7 @@
   --sn-desktop-titlebar-ui-color: var(--ui-text-color);
   --sn-desktop-titlebar-ui-hover-color: var(--sn-stylekit-info-color);
   --sn-stylekit-shadow-color: #20202b;
-  --sn-stylekit-background-color: #20202b;
+  --sn-stylekit-background-color: #000000;
   --sn-stylekit-border-color: var(--border-color);
   --sn-stylekit-foreground-color: var(--ui-text-color);
   --sn-stylekit-contrast-background-color: var(--secondary-bg-color);
@@ -39,13 +39,4 @@
   --sn-stylekit-monospace-font: 'Monaco';
 }
 
-#editor-column {
-    width: 90%;
-    max-width: 50em;
-    margin: 0 auto;
-}
-
-#main-content {
-  padding: 10px;
-}
 /*# sourceMappingURL=dist.css.map */
