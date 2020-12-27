@@ -37,6 +37,11 @@
   --sn-stylekit-scrollbar-track-border-color: var(--border-color);
   --sn-stylekit-scrollbar-thumb-color: var(--sn-stylekit-info-color);
   --sn-stylekit-monospace-font: 'Monaco';
+
+  --sn-stylekit-base-font-size: 14px;
+
+  --sn-stylekit-font-size-p: 1rem;
+  --sn-stylekit-font-size-editor: 1.5rem;
 }
 
 /*# sourceMappingURL=dist.css.map */
