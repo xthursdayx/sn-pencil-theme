@@ -3,15 +3,15 @@ metatype: json
 ---
 
   {
-    "identifier": "io.github.alecstein.sn-pencil-theme",
+    "identifier": "io.github.xthursdayx.sn-pencil-theme",
     "name": "Pencil",
     "content_type": "SN|Theme",
     "area": "themes",
     "description": "A dark, writing-oriented theme",
-    "version": "v0.1",
-    "url": "https://raw.githubusercontent.com/alecstein/sn-pencil-theme/master/dist/dist.css",
-    "download_url": "https://github.com/alecstein/sn-pencil-theme/archive/0.33.zip",
-    "marketing_url": "https://github.com/alecstein/sn-pencil-theme",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/xthursdayx/sn-pencil-theme/master/dist/dist.css",
+    "download_url": "https://github.com/xthursdayx  /sn-pencil-theme/archive/master.zip",
+    "marketing_url": "https://github.com/xthursdayx/sn-pencil-theme",
     "latest_url": "https://listed.to/p/RO5fx7AfUH",
     "dock_icon": {
       "type": "circle",
