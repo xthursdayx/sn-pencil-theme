@@ -9,4 +9,4 @@ How to install:
 - Paste in: <https://raw.githubusercontent.com/xthursdayx/sn-pencil-theme/ext.json>
 - Hit Enter/Return
 
-![screenshot](https://raw.githubusercontent.com/alecstein/sn-less-distraction/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/xthursdayx/sn-less-distraction/master/screenshot.png)
