@@ -8,7 +8,7 @@ metatype: json
     "content_type": "SN|Theme",
     "area": "themes",
     "description": "A dark, writing-oriented theme",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "url": "https://raw.githubusercontent.com/xthursdayx/sn-pencil-theme/master/dist/dist.css",
     "download_url": "https://github.com/xthursdayx/sn-pencil-theme/archive/master.zip",
     "marketing_url": "https://github.com/xthursdayx/sn-pencil-theme",
