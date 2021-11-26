@@ -8,5 +8,3 @@ How to install:
 - Click `Import Extension`
 - Paste in: <https://raw.githubusercontent.com/xthursdayx/sn-pencil-theme/ext.json>
 - Hit Enter/Return
-
-![screenshot](https://raw.githubusercontent.com/xthursdayx/sn-less-distraction/master/screenshot.png)
